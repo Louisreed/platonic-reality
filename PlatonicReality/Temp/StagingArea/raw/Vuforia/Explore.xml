@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Explore-Octahedron-Example" size="10.000000 14.279960" />
+    <ImageTarget name="Explore-Hexahedron-Example" size="10.000000 14.279960" />
+    <ImageTarget name="Explore-Tetrahedron" size="10.000000 14.279960" />
+    <ImageTarget name="Explore-Octahedron" size="10.000000 14.279960" />
+    <ImageTarget name="Explore-Hexahedron" size="10.000000 14.279960" />
+    <ImageTarget name="Explore-Icosahedron" size="10.000000 14.290030" />
+    <ImageTarget name="Explore-Dodecahedron" size="10.000000 14.279960" />
+  </Tracking>
+</QCARConfig>
