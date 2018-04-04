@@ -6,7 +6,7 @@ public class ButtonPrintHexahedron : MonoBehaviour {
 
 	public void OnURLPressed()
 	{
-		Application.OpenURL("https://louisreed.co.uk/platonicreality/templates/hexahedron.pdf");
+		Application.OpenURL("http://louisreed.co.uk/wp-content/uploads/2018/03/Hexahedron.pdf");
 	}
 
 	// Use this for initialization

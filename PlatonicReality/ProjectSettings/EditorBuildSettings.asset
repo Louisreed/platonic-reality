@@ -15,14 +15,11 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: dae20d763d7bf4d3990b77ffadf36e42
   - enabled: 1
-    path: Assets/Scenes/Explore.unity
-    guid: f9807236b8ffd498b984107034615b7d
-  - enabled: 1
     path: Assets/Scenes/PlatonicMenu.unity
     guid: f5c997eb1215f4a56af3ecddc8b2bf4c
   - enabled: 1
     path: Assets/Scenes/PlatonicSolids/Tetrahedron.unity
-    guid: fefb9bdae6a084bf59ef5e5642e36d60
+    guid: 1e403d057b20d4ffd967e7daffa33ef3
   - enabled: 1
     path: Assets/Scenes/PlatonicSolids/AR/TetrahedronAR.unity
     guid: c25b809019e1f4186b134c730c496bb4
@@ -31,10 +28,10 @@ EditorBuildSettings:
     guid: efdb3831456f641c481694f887f56155
   - enabled: 1
     path: Assets/Scenes/PlatonicSolids/AR/OctahedronAR.unity
-    guid: 44ddd38c03c8445b3bdb387574246560
+    guid: 2e3e619f7a3e7436485a024e93982b09
   - enabled: 1
     path: Assets/Scenes/PlatonicSolids/Hexahedron.unity
-    guid: 8b4ee7ca1553d435483f321daa237c42
+    guid: 320aa94b1422e40b1952e3d5160167dc
   - enabled: 1
     path: Assets/Scenes/PlatonicSolids/AR/HexahedronAR.unity
     guid: bf97d521a92a74ecdb89e1111b022203
@@ -53,4 +50,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PlatonicSolids/AR/PlatonicAR.unity
     guid: 5cab6ffd26fe64b0782759d240f7a127
+  - enabled: 1
+    path: Assets/Scenes/ExploreMenu.unity
+    guid: ae2ef5654df5646f78b7067679156935
+  - enabled: 1
+    path: Assets/Scenes/Explore/History.unity
+    guid: fb7fe7cfe59104f17930daf9428c8cfc
+  - enabled: 1
+    path: Assets/Scenes/Explore/What.unity
+    guid: bf82d9e8f42804e509bf6a1cbc1f2315
+  - enabled: 1
+    path: Assets/Scenes/Explore/ClassicalElements.unity
+    guid: 3056efdfdf3434ae784ec0568e5b3f65
+  - enabled: 1
+    path: Assets/Scenes/Explore/Polygons.unity
+    guid: d82dfdc94134247a083fae7e7d5a9a5a
+  - enabled: 1
+    path: Assets/Scenes/Explore/Vertex.unity
+    guid: 14b0ddd19d41346e1b3b48e3f8bd6b84
+  - enabled: 1
+    path: Assets/Scenes/Explore/Dihedral.unity
+    guid: d55cc5dcf48514ad1b3d713b91e8991c
   m_configObjects: {}

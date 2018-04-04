@@ -6,7 +6,7 @@ public class ButtonPrintTetrahedron : MonoBehaviour {
 
 	public void OnURLPressed()
 	{
-		Application.OpenURL("https://louisreed.co.uk/platonicreality/templates/tetrahedron.pdf");
+		Application.OpenURL("http://louisreed.co.uk/wp-content/uploads/2018/03/Tetrahedron.pdf");
 	}
 
 	// Use this for initialization

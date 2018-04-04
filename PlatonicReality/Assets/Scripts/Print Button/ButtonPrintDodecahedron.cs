@@ -6,7 +6,7 @@ public class ButtonPrintDodecahedron : MonoBehaviour {
 
 	public void OnURLPressed()
 	{
-		Application.OpenURL("https://louisreed.co.uk/platonicreality/templates/dodecahedron.pdf");
+		Application.OpenURL("http://louisreed.co.uk/wp-content/uploads/2018/03/Dodecahedron.pdf");
 	}
 
 	// Use this for initialization
