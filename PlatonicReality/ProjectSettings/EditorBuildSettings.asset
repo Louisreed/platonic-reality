@@ -55,20 +55,23 @@ EditorBuildSettings:
     guid: ae2ef5654df5646f78b7067679156935
   - enabled: 1
     path: Assets/Scenes/Explore/History.unity
-    guid: fb7fe7cfe59104f17930daf9428c8cfc
+    guid: 5a99ecda4de3e45708001e29a79458a7
   - enabled: 1
     path: Assets/Scenes/Explore/What.unity
-    guid: bf82d9e8f42804e509bf6a1cbc1f2315
+    guid: dd441fa777b1046cbb0aae7fbf004d03
   - enabled: 1
     path: Assets/Scenes/Explore/ClassicalElements.unity
-    guid: 3056efdfdf3434ae784ec0568e5b3f65
+    guid: d959d9690bac7458299258330d6a3301
   - enabled: 1
     path: Assets/Scenes/Explore/Polygons.unity
-    guid: d82dfdc94134247a083fae7e7d5a9a5a
+    guid: 0d663e0f6f50047f6bb9e315f23a731f
   - enabled: 1
     path: Assets/Scenes/Explore/Vertex.unity
-    guid: 14b0ddd19d41346e1b3b48e3f8bd6b84
+    guid: 123890d262e914c7e82126fdfb2eac07
   - enabled: 1
     path: Assets/Scenes/Explore/Dihedral.unity
-    guid: d55cc5dcf48514ad1b3d713b91e8991c
+    guid: 86034f48e8f434b08bef0b7b4f8e44be
+  - enabled: 1
+    path: Assets/Scenes/Info.unity
+    guid: d5918df13c403447792077b106fbd194
   m_configObjects: {}

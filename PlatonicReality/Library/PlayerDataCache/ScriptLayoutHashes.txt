@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-/Users/Louis/PlatonicReality/Builds/Platonic-Reality.apk
+/Users/Louis/PlatonicReality/Builds/Platonic-Reality-VR.apk
 SceneListBegin?
 Assets/Scenes/Splash.unity
 Assets/Scenes/Intro.unity
@@ -24,6 +24,7 @@ Assets/Scenes/Explore/ClassicalElements.unity
 Assets/Scenes/Explore/Polygons.unity
 Assets/Scenes/Explore/Vertex.unity
 Assets/Scenes/Explore/Dihedral.unity
+Assets/Scenes/Info.unity
 SceneListEnd?
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:UnityEngine.UI.Extensions.ScrollSnapScrollbarHelper
 7d0aa0f64a823db9982e4fed92870a4c Assembly-CSharp.dll:UnityEngine.UI.Extensions.ResizePanel
@@ -199,6 +200,7 @@ fb41f632b9f295d4ccdc90f7faffc953 Assembly-CSharp.dll:.ARVRAboutManager
 09a5fe7ce29771d31cb4a04821cda7c0 Assembly-CSharp.dll:UnityEngine.UI.Extensions.Examples.AnimateEffects
 503c02416189284acc13485b2d75da45 Assembly-CSharp.dll:UnityEngine.UI.Extensions.ScrollSnapBase
 b4277c999b1b49aa631b87f6a12b3055 Assembly-CSharp.dll:UnityEngine.UI.Extensions.UIVerticalScroller
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ButtonLinkGithub
 bc79872c81f3cda9be1ec427f70f92aa Vuforia.UnityExtensions.dll:Vuforia.AnchorBehaviour
 0561521e336e270e6e5a9c61387cb838 Vuforia.UnityExtensions.dll:Vuforia.AnchorInputListenerBehaviour
 bc79872c81f3cda9be1ec427f70f92aa Vuforia.UnityExtensions.dll:Vuforia.AnchorStageBehaviour
@@ -274,7 +276,6 @@ bcf24c6060c147d4b11041fada88a67a Assembly-CSharp.dll:UnityEngine.UI.Extensions.T
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ButtonLinkPyrite
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ButtonLinkBasaltColumns
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:UnityEngine.UI.Extensions.Examples.ComboBoxChanged
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.VRMode
 161d81543a4f3cb98ac65429a6a32ff3 Assembly-CSharp.dll:UnityEngine.UI.Extensions.BoundTooltipItem
 3df88b71fa5d7734e8274c97b885d62a Assembly-CSharp.dll:UnityEngine.UI.Extensions.UILineRenderer
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:UnityEngine.UI.Extensions.RescaleDragPanel
@@ -299,6 +300,7 @@ ee35e156e63325ceab69dd1025a30485 Assembly-CSharp.dll:UnityEngine.UI.Extensions.E
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ButtonLinkVirus
 ae5121fb0eea49442b0020b544efcc18 Assembly-CSharp.dll:UnityEngine.EventSystems.GamePadInputModule
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:UnityEngine.UI.Extensions.ReorderableListContent
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ButtonLinkHistory
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:UnityEngine.UI.Extensions.UIAdditiveEffect
 d6a66d9d344da810bf468c669ab6b944 Assembly-CSharp.dll:UnityEngine.UI.Extensions.Examples.Example01Scene
 06cadda99ce7da0f8b4c5646f4810e1c Assembly-CSharp.dll:UnityEngine.UI.Extensions.Examples.UpdateScrollSnap
@@ -394,6 +396,7 @@ f0b03a5841f343810896ac3682a97801 Assembly-CSharp.dll:UnityEngine.UI.Extensions.M
 89b1b1c9db212fa745b19498a3bca327 Assembly-CSharp.dll:UnityEngine.UI.Extensions.Stepper
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ButtonBackHexahedron
 25a2aef01826a2ce5990a41d4bce0f94 Assembly-CSharp.dll:UnityEngine.UI.Extensions.ColorPicker.ColorImage
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ButtonLinkDihedral
 54c551855f32e2baf3951aade3b89424 Assembly-CSharp.dll:UnityEngine.UI.Extensions.Examples.Example03ScrollViewCell
 843abcf1e8ac8e18b5649e047d0dcc7c Assembly-CSharp.dll:UnityEngine.UI.Extensions.BoxSlider
 a39680391e460506ce37e681503a93c5 Assembly-CSharp.dll:UnityEngine.UI.Extensions.UILineTextureRenderer
@@ -410,6 +413,7 @@ ec933a2ab5531523f501477c1dbcd874 Assembly-CSharp.dll:UnityEngine.UI.Extensions.S
 5cd262d465738805a1448c080ee136f1 Assembly-CSharp.dll:UnityEngine.UI.Extensions.UIScrollToSelection
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ButtonLinkWebsite
 63b892668f32e9ba2cdf1de1cd202182 Assembly-CSharp.dll:UnityEngine.UI.Extensions.VRCursor
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ButtonLinkWhat
 bc285999efb8f855ed4a51a6fb9a85ac Assembly-CSharp.dll:UnityEngine.UI.Extensions.RadialSlider
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ButtonLinkCardboard
 2e2b24fa2d6c227d99da94d76de1ae59 Assembly-CSharp.dll:UnityEngine.UI.Extensions.UICornerCut
@@ -491,4 +495,6 @@ a924c90a95cf65003f662aa5e30abb6b Vuforia.UnityExtensions.dll:Vuforia.VuforiaConf
 3d1b89310e77c34bc0c8d7132231345c Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 05524b8f659e7bfe5756d1335fec24ba Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ButtonLinkSaturn
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ButtonLinkHistory
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ButtonLinkClassicalElements
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ButtonLinkVertexAngles
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ButtonLinkPolygon

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="Dodecahedron-Vertex-Front-0" size="10.000000 15.444555" />
     <ImageTarget name="Dodecahedron-Vertex-Front" size="10.000000 15.447531" />
     <ImageTarget name="Icosahedron-Face-Front" size="10.000000 15.447531" />
     <ImageTarget name="Hexahedron-Vertex-Front" size="10.000000 15.447531" />
